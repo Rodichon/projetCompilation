@@ -1,0 +1,9 @@
+\titre GreenSleevesStart
+
+sol 4 4
+{
+\p1 \p8 sol'8~ sol'16 fa'16 mi'8~ mi'8 re'8~ re'8 mi'16 fa'16 mi'16 re'16 mi'8 \p4 \p2 \p4 si'4 la'4 fa'4
+\p1 \p4 \p8 mi'8~ mi'8 re'8~ re'8 do'8 \p1 \p1
+\p1 \p8 sol'8~ sol'16 fa'16 mi'8~ mi'8 re'8~ re'8 mi'16 fa'16 mi'16 re'16 mi'8 \p4 \p2 \p4 si'4 la'4 re''4
+si'1 \p4 si'4 la'2 \bar |.
+}

@@ -1,0 +1,7 @@
+ \titre AuClairDeLaLune
+
+sol bbb 4 4
+{
+\nolet 4/2 {do'4 do' do' re'} mi'4 re'4 \nolet 4/2 {do'4 mi' re' re'} do'2 \nolet 4/2 {do'4 do' do' re'} mi'4 re'4 \nolet 4/2 {do'4 mi' re' re'} do'2
+\nolet 4/2 {re'4 re' re' re'} la4 la4 \nolet 4/2 {re'4 do' si la} sol2 \nolet 4/2 {do'4 do' do' re'} mi'4 re'4 \nolet 4/2 {do' mi' re' re'} do'2
+}
